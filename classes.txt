@@ -1,0 +1,7 @@
+akiec = Actinic keratoses and intraepithelial carcinoma / Bowen's disease
+bcc = basal cell carcinoma 
+bkl = benign keratosis-like lesions 
+df = dermatofibroma
+mel = melanoma
+nv = melanocytic nevi
+vasc = vascular lesions
